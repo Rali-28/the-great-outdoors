@@ -10,102 +10,122 @@
 </head>
 <body>
     <div class="main__container">
-        <!-- Navbar Section flexbox container -->
-        <!-- Arrange left: Logo , Right: Nav links -->
-        <nav>
-            <!-- Navbar left side logo -->
-            <a href="home" class="navbar__logo">
-                <img src="#" alt="Website Logo" class="logo">
-            </a>
 
-            <!-- Navbar right side nav links -->
-            <ul class="nav__links">
-                <li>
-                    <a href="home">Home</a>
-                </li>
-                <li>    
-                    <a href="activities">Activities</a>
-                </li>
-                <li>
-                    <a href="testimonial">Testimonial</a>
-                </li>
-            </ul>
-        <nav/>
+        <!-- Navbar Section -->
+        <div class="container">
+
+            <!-- Nav Flexbox  -->
+            <!-- Arrange left: Logo , Right: Nav links -->
+            <nav>
+
+                <!-- Navbar left side logo -->
+                <a href="home" class="navbar__logo">
+                    <img src="#" alt="Website Logo" class="logo">
+                </a>
+
+                <!-- Navbar right side nav links -->
+                <ul class="nav__links">
+                    <li>
+                        <a href="home">Home</a>
+                    </li>
+                    <li>    
+                        <a href="activities">Activities</a>
+                    </li>
+                    <li>
+                        <a href="testimonial">Testimonial</a>
+                    </li>
+                </ul>
+            <nav/>
+        </div>
         <!-- End Navbar -->
 
-        <!-- Hero Section flexbox container -->
-        <!-- 
-            Contains two flex items
-            Left: Heading and Paragraph with Signup Button
-            Right: Hero/Main Image  
-        -->
-        <div class="hero">
-            <!-- Left: Header -->
-            <div>
-                <header class="hero__header">Welcome to... <span>The Great Outdoor!</span></header>
-                <p class="hero__paragrap">
-                    Be one with nature and appreciate her beauty. Great bonding experience for the whole family and the whole barkada!
-                </p>
-                <button>Signup</button>
-            </div> 
+        <!-- Hero Section -->
+        <div class="container">
 
-            <!-- Right: Hero Image -->
-            <img src="#" alt="" class="hero__image">
+            <!-- 
+                Flexbox
+                Contains two flex items
+                Left: Heading and Paragraph with Signup Button
+                Right: Hero/Main Image  
+            -->
+            <div class="hero">
+                <!-- Left: Header -->
+                <div>
+                    <header class="hero__header">Welcome to... <span>The Great Outdoor!</span></header>
+                    <p class="hero__paragrap">
+                        Be one with nature and appreciate her beauty. Great bonding experience for the whole family and the whole barkada!
+                    </p>
+                    <button>Signup</button>
+                </div> 
+
+                <!-- Right: Hero Image -->
+                <img src="#" alt="" class="hero__image">
+            </div>
+
         </div>
         <!-- End Hero -->
+       
 
-        <!-- Activities Section flexbox container -->
-        <!-- 
-            Contains four cards
-            will wrap when screen size gets smaller
-            Subtext under cards
-        -->
-        <div class="activities">
+        <!-- Activities Section -->
+        <div class="container">
 
-            <div class="activities__card">
-                <span>
-                    <img src="#" alt="" class="card__image-1">
-                </span>
-                <p>Activity 1</p>
+            <!-- 
+                Flexbox
+                Contains four cards
+                will wrap when screen size gets smaller
+                Subtext under cards
+            -->
+            <div class="activities">
+
+                <div class="activities__card">
+                    <span>
+                        <img src="#" alt="" class="card__image-1">
+                    </span>
+                    <p>Activity 1</p>
+                </div>
+
+                <div class="activities__card">
+                    <span>
+                        <img src="#" alt="" class="card__image-2">
+                    </span>
+                    <p>Activity 2</p>
+                </div>
+
+                <div class="activities__card">
+                    <span>
+                        <img src="#" alt="" class="card__image-3">
+                    </span>
+                    <p>Activity 3</p>
+                </div>
+
+                <div class="activities__card">
+                    <span>
+                        <img src="#" alt="" class="card__image-4">
+                    </span>
+                    <p>Activity 4</p>
+                </div>
+
             </div>
-
-            <div class="activities__card">
-                <span>
-                    <img src="#" alt="" class="card__image-2">
-                </span>
-                <p>Activity 2</p>
-            </div>
-
-            <div class="activities__card">
-                <span>
-                    <img src="#" alt="" class="card__image-3">
-                </span>
-                <p>Activity 3</p>
-            </div>
-
-            <div class="activities__card">
-                <span>
-                    <img src="#" alt="" class="card__image-4">
-                </span>
-                <p>Activity 4</p>
-            </div>
-
         </div>
         <!-- End Activities -->
 
         <!-- Testimonial Section -->
-        <div>
+        <div class="container">
 
-            <!-- The main text -->
-            <p class="testimonial__text">
-                "Can we just watch nature on Netflix?"
-            </p>
+            <div class="testimonial">
 
-            <!-- The author of said quote -->
-            <p class="testimonial__author">
-                - Probably someone hiking
-            </p>
+                <!-- The main text -->
+                <p class="testimonial__text">
+                    "Can we just watch nature on Netflix?"
+                </p>
+
+                <!-- The author of said quote -->
+                <p class="testimonial__author">
+                    - Probably someone hiking
+                </p>
+            </div>
         </div>
+        
         <!-- End Testimonial -->
         
         <footer>
