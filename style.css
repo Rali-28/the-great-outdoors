@@ -1,0 +1,12 @@
+/* Imports the Roboto Regular 400 font from Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* General Styles */
+
+/* Selects everything */
+* {
+    /* All fonts are Roboto */
+    font-family: Roboto, sans-serif; 
+}
+
+/* End General Styles */
