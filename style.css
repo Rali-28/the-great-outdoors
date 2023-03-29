@@ -32,6 +32,8 @@ nav {
 
     width: 70vw;
     margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 nav > ul{
