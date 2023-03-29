@@ -13,10 +13,6 @@ body {
     margin: 0;
 }
 
-a {
-    text-decoration: none;
-}
-
 /* End General Styles */
 
 /* Navbar Styles */
@@ -40,7 +36,7 @@ nav > ul{
     display: flex;
     gap: 16px;
 
-    list-style: none;   
+    list-style: none;
 }
 
 .navbar__logo > img {
