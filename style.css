@@ -57,4 +57,10 @@ nav {
     background-color: #453B2F;
 }
 
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 /* End Hero Section */
