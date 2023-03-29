@@ -68,4 +68,9 @@ nav {
     margin: auto;
 }
 
+.hero__image {
+    width: 50%;
+    border-radius: 20px;
+}
+
 /* End Hero Section */
