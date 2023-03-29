@@ -32,7 +32,7 @@ nav {
     padding-bottom: 10px;
 }
 
-nav > ul{
+.nav__links {
     display: flex;
     gap: 16px;
 
