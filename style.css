@@ -41,4 +41,8 @@ nav > ul, a {
     list-style: none;
 }
 
+.navbar__logo > img {
+    width: 150px;   
+}
+
 /* End Navbar Styles */
