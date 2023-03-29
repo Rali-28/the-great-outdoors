@@ -14,3 +14,13 @@ body {
 }
 
 /* End General Styles */
+
+/* Navbar Styles */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* End Navbar Styles */
