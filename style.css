@@ -17,10 +17,17 @@ body {
 
 /* Navbar Styles */
 
+.nav_container {
+
+}
+
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    width: 70vw;
+    margin: auto;
 }
 
 /* End Navbar Styles */
