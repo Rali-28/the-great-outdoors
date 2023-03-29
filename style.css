@@ -13,6 +13,10 @@ body {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* End General Styles */
 
 /* Navbar Styles */
@@ -28,6 +32,13 @@ nav {
 
     width: 70vw;
     margin: auto;
+}
+
+nav > ul, a {
+    display: flex;
+    gap: 16px;
+
+    list-style: none;
 }
 
 /* End Navbar Styles */
