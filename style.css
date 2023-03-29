@@ -62,11 +62,15 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 16px;
+    gap: 36px;
 
     height: 100vh;
     width: 75vw;
     margin: auto;
+}
+
+.hero > div {
+    width: 50%;
 }
 
 .hero__header {
@@ -85,7 +89,7 @@ span {
 }
 
 .hero__image {
-    width: 50%;
+    width: 40%;
     border-radius: 20px;
 }
 
