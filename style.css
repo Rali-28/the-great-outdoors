@@ -1,12 +1,12 @@
-/* Imports the Roboto Regular 400 font from Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* Imports the Playfair Display Regular 400 font from Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 /* General Styles */
 
 /* Selects everything */
 * {
-    /* All fonts are Roboto */
-    font-family: Roboto, sans-serif; 
+    /* All fonts are Playfair Display */
+    font-family: 'Playfair Display', serif; 
 }
 
 body {
