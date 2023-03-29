@@ -17,8 +17,8 @@ body {
 
 /* Navbar Styles */
 
-.nav_container {
-
+.nav__container {
+    background-color: #453B2F;
 }
 
 nav {
