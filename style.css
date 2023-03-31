@@ -171,4 +171,9 @@ span {
     background-color: #B3A79A;
 }
 
+.testimonial {
+    width: 75vw;
+    margin: auto;
+}
+
 /* End Testimonial */
