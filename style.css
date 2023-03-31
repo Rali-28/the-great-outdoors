@@ -124,6 +124,11 @@ span {
     margin-bottom: 100px;
 }
 
+.activities__container > header {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
 .activities {
     display: flex;
     justify-content: center;
