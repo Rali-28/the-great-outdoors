@@ -197,3 +197,21 @@ span {
 }
 
 /* End Testimonial */
+
+/* Footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #453B2F;
+
+    color: white;
+    font-size: 1.125;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* End Footer */
