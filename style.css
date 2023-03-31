@@ -182,7 +182,14 @@ span {
     margin: auto;
 }
 
+.testimonial__text {
+    font-size: 2rem;
+    font-style: italic;
+}
+
 .testimonial__author {
+    font-size: 2rem;
+
     align-self: flex-end;
 }
 
