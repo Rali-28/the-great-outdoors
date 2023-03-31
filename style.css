@@ -135,6 +135,10 @@ span {
     gap: 20px;
 }
 
+.activities p {
+    font-size: 1.125rem;
+}
+
 .card {
     width: 250px;
 
