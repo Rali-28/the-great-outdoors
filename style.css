@@ -219,4 +219,8 @@ footer {
     padding-bottom: 30px;
 }
 
+footer a {
+    text-decoration: underline;
+}
+
 /* End Footer */
