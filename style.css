@@ -137,6 +137,8 @@ span {
 
 .card {
     width: 250px;
+
+    text-align: center;
 }
 
 .card span {
