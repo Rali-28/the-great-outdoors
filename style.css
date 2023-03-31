@@ -110,3 +110,13 @@ span {
 }
 
 /* End Hero Section */
+
+/* Activities Section */
+
+.activities__container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* End Activities */
