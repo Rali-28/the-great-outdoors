@@ -119,4 +119,13 @@ span {
     flex-direction: column;
 }
 
+.activities {
+    display: flex;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+}
+
 /* End Activities */
