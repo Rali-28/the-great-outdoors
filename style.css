@@ -121,11 +121,14 @@ span {
 
 .activities {
     display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
 .card img {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
 }
 
 /* End Activities */
