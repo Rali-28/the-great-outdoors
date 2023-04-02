@@ -1,6 +1,6 @@
 # the-great-outdoors
 
-[Website Link](https://rali-webprofile.netlify.app)
+[Website Link](https://rali-28.github.io/the-great-outdoors/)
 
 The Odin Project: Landing Page Project
 This is a great practice for basic HTML and CSS.
