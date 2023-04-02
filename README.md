@@ -17,7 +17,7 @@ Guide web design:
 
 ## Attributions
 
-The position of this section is to give credits to all of the image used.
+The purpose of this section is to give credits to all of the image used.
 [Pexels](https://www.pexels.com/) is a great site to gather stock photos.
 Please read the license/s or legality rules before downloading a photo from the web!
 
